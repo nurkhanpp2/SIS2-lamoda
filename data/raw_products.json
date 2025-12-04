@@ -1,0 +1,842 @@
+[
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0b981/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "6 894 ₸",
+    "scraped_at": "2025-12-04T12:34:19.124804"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bc85/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "7 524 ₸",
+    "scraped_at": "2025-12-04T12:34:19.158144"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bwuz/clothes-fn-termobele-niz/",
+    "name": "Термобелье низ WARM",
+    "brand": "FN",
+    "price_raw": "8 910 ₸",
+    "scraped_at": "2025-12-04T12:34:19.194879"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0d8e9/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "6 042 ₸",
+    "scraped_at": "2025-12-04T12:34:19.237084"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlael710001/shoes-adidas-krossovki/",
+    "name": "Кроссовки DURAMO RC2 M",
+    "brand": "adidas",
+    "price_raw": "44 700 ₸",
+    "scraped_at": "2025-12-04T12:34:19.285206"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xu0d858/accs-demix-povyazka/",
+    "name": "Повязка",
+    "brand": "Demix",
+    "price_raw": "1 876 ₸",
+    "scraped_at": "2025-12-04T12:34:19.339217"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bl8c/shoes-adidas-krossovki/",
+    "name": "Кроссовки Runfalcon",
+    "brand": "adidas",
+    "price_raw": "43 990 ₸",
+    "scraped_at": "2025-12-04T12:34:19.377462"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0d8ec/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "7 722 ₸",
+    "scraped_at": "2025-12-04T12:34:19.413493"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0cixh/shoes-fila-krossovki/",
+    "name": "Кроссовки SENSE SIMPLE",
+    "brand": "Fila",
+    "price_raw": "15 756 ₸",
+    "scraped_at": "2025-12-04T12:34:19.444595"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm253ix/clothes-demix-taytsy/",
+    "name": "Тайтсы",
+    "brand": "Demix",
+    "price_raw": "15 670 ₸",
+    "scraped_at": "2025-12-04T12:34:19.477258"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlads456503/shoes-puma-krossovki/",
+    "name": "Кроссовки Softride Carson",
+    "brand": "PUMA",
+    "price_raw": "32 190 ₸",
+    "scraped_at": "2025-12-04T12:34:19.508510"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bc82/clothes-demix-futbolka-sportivnaya/",
+    "name": "Футболка спортивная",
+    "brand": "Demix",
+    "price_raw": "3 759 ₸",
+    "scraped_at": "2025-12-04T12:34:19.543616"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaei740301/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA Charged Commit TR 4",
+    "brand": "Under Armour",
+    "price_raw": "50 890 ₸",
+    "scraped_at": "2025-12-04T12:34:19.573622"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer847601/clothes-underarmour-futbolka/",
+    "name": "Футболка UA GL FOUNDATION UPDATE SS",
+    "brand": "Under Armour",
+    "price_raw": "14 144 ₸",
+    "scraped_at": "2025-12-04T12:34:19.593293"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaek316401/shoes-sonu-krossovki/",
+    "name": "Кроссовки DASH MID RUNNING MEN SNEAKERS",
+    "brand": "Sonu",
+    "price_raw": "20 872 ₸",
+    "scraped_at": "2025-12-04T12:34:19.624545"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer627301/shoes-adidas-krossovki/",
+    "name": "Кроссовки DURAMO RC2 M",
+    "brand": "adidas",
+    "price_raw": "30 000 ₸",
+    "scraped_at": "2025-12-04T12:34:19.665346"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0boca/clothes-demix-vetrovka/",
+    "name": "Ветровка",
+    "brand": "Demix",
+    "price_raw": "14 442 ₸",
+    "scraped_at": "2025-12-04T12:34:19.680972"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej663902/clothes-sonu-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Sonu",
+    "price_raw": "24 300 ₸",
+    "scraped_at": "2025-12-04T12:34:19.712223"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bwuj/clothes-fn-kostyum-sportivnyy/",
+    "name": "Костюм спортивный Dynamic",
+    "brand": "FN",
+    "price_raw": "22 716 ₸",
+    "scraped_at": "2025-12-04T12:34:19.743476"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaee145702/shoes-newbalance-krossovki/",
+    "name": "Кроссовки Hierro v9",
+    "brand": "New Balance",
+    "price_raw": "94 700 ₸",
+    "scraped_at": "2025-12-04T12:34:19.779262"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm14ycz/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "7 386 ₸",
+    "scraped_at": "2025-12-04T12:34:19.805377"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaee911702/clothes-puma-mayka-sportivnaya/",
+    "name": "Майка спортивная M RUN Vel TANK (POLY)",
+    "brand": "PUMA",
+    "price_raw": "11 215 ₸",
+    "scraped_at": "2025-12-04T12:34:19.831643"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaei474801/shoes-underarmour-krossovki/",
+    "name": "Кроссовки",
+    "brand": "Under Armour",
+    "price_raw": "36 600 ₸",
+    "scraped_at": "2025-12-04T12:34:19.862900"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaes036201/shoes-adidas-krossovki/",
+    "name": "Кроссовки RESPONSE RUNNER 2",
+    "brand": "adidas",
+    "price_raw": "37 000 ₸",
+    "scraped_at": "2025-12-04T12:34:19.894151"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeq601401/clothes-adidas-mayka-sportivnaya/",
+    "name": "Майка спортивная adi365 Tank M",
+    "brand": "adidas",
+    "price_raw": "38 300 ₸",
+    "scraped_at": "2025-12-04T12:34:19.925403"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaek420801/shoes-hokaoneone-krossovki/",
+    "name": "Кроссовки Speedgoat 6",
+    "brand": "Hoka One One",
+    "price_raw": "91 632 ₸",
+    "scraped_at": "2025-12-04T12:34:19.956655"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0cus0/shoes-adidas-krossovki/",
+    "name": "Кроссовки Runfalcon",
+    "brand": "adidas",
+    "price_raw": "24 990 ₸",
+    "scraped_at": "2025-12-04T12:34:19.988977"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bpnk/clothes-demix-taytsy/",
+    "name": "Тайтсы",
+    "brand": "Demix",
+    "price_raw": "8 617 ₸",
+    "scraped_at": "2025-12-04T12:34:20.020057"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0ctqv/clothes-adidas-futbolka-sportivnaya/",
+    "name": "Футболка спортивная Adizero Essentials",
+    "brand": "adidas",
+    "price_raw": "22 990 ₸",
+    "scraped_at": "2025-12-04T12:34:20.040140"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0dhvy/clothes-demix-longsliv-sportivnyy/",
+    "name": "Лонгслив спортивный",
+    "brand": "Demix",
+    "price_raw": "6 265 ₸",
+    "scraped_at": "2025-12-04T12:34:20.071392"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bla5/clothes-demix-termobele-niz/",
+    "name": "Термобелье низ",
+    "brand": "Demix",
+    "price_raw": "9 009 ₸",
+    "scraped_at": "2025-12-04T12:34:20.112718"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlacv439601/shoes-reebok-krossovki/",
+    "name": "Кроссовки REEBOK LITE PLUS 3",
+    "brand": "Reebok",
+    "price_raw": "19 690 ₸",
+    "scraped_at": "2025-12-04T12:34:20.133396"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm161le/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "13 430 ₸",
+    "scraped_at": "2025-12-04T12:34:20.172022"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0cxle/shoes-adidas-krossovki/",
+    "name": "Кроссовки Duramo SL 2 Running",
+    "brand": "adidas",
+    "price_raw": "26 990 ₸",
+    "scraped_at": "2025-12-04T12:34:20.187653"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0d8eb/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "9 009 ₸",
+    "scraped_at": "2025-12-04T12:34:20.227444"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xu0d87g/clothes-demix-noski-pary/",
+    "name": "Носки 2 пары",
+    "brand": "Demix",
+    "price_raw": "1 365 ₸",
+    "scraped_at": "2025-12-04T12:34:20.258697"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej664302/clothes-sonu-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Sonu",
+    "price_raw": "24 300 ₸",
+    "scraped_at": "2025-12-04T12:34:20.303043"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet381601/shoes-asics-krossovki/",
+    "name": "Кроссовки GEL-EXCITE 11",
+    "brand": "ASICS",
+    "price_raw": "52 635 ₸",
+    "scraped_at": "2025-12-04T12:34:20.361119"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet975001/shoes-mizuno-krossovki/",
+    "name": "Кроссовки WAVE RIDER GTX 3",
+    "brand": "Mizuno",
+    "price_raw": "114 495 ₸",
+    "scraped_at": "2025-12-04T12:34:20.392360"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaec734401/clothes-reebok-bryuki-sportivnye/",
+    "name": "Брюки спортивные RUNNING PANT",
+    "brand": "Reebok",
+    "price_raw": "19 590 ₸",
+    "scraped_at": "2025-12-04T12:34:20.428169"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm01hx3/clothes-profit-bryuki-sportivnye/",
+    "name": "Брюки спортивные флисовые",
+    "brand": "Profit",
+    "price_raw": "18 948 ₸",
+    "scraped_at": "2025-12-04T12:34:20.445835"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaem792301/shoes-adidas-krossovki/",
+    "name": "Кроссовки GALAXY 7 M",
+    "brand": "adidas",
+    "price_raw": "30 090 ₸",
+    "scraped_at": "2025-12-04T12:34:20.477087"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet381201/shoes-asics-krossovki/",
+    "name": "Кроссовки GEL-EXCITE 11",
+    "brand": "ASICS",
+    "price_raw": "52 635 ₸",
+    "scraped_at": "2025-12-04T12:34:20.508339"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bfaf/shoes-fila-krossovki/",
+    "name": "Кроссовки MEGALITE 6.0",
+    "brand": "Fila",
+    "price_raw": "15 318 ₸",
+    "scraped_at": "2025-12-04T12:34:20.540676"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaem627601/clothes-adidasy3-vetrovka/",
+    "name": "Ветровка M RUNNING JCKT",
+    "brand": "adidas Y-3",
+    "price_raw": "77 390 ₸",
+    "scraped_at": "2025-12-04T12:34:20.555712"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer485101/clothes-underarmour-bryuki-sportivnye/",
+    "name": "Брюки спортивные UA StormCyclone Pant",
+    "brand": "Under Armour",
+    "price_raw": "44 200 ₸",
+    "scraped_at": "2025-12-04T12:34:20.586963"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0drt7/shoes-demix-krossovki/",
+    "name": "Кроссовки SP TURBO",
+    "brand": "Demix",
+    "price_raw": "13 713 ₸",
+    "scraped_at": "2025-12-04T12:34:20.624385"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet137101/clothes-asics-futbolka-sportivnaya/",
+    "name": "Футболка спортивная",
+    "brand": "ASICS",
+    "price_raw": "22 100 ₸",
+    "scraped_at": "2025-12-04T12:34:20.654533"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej627301/clothes-sonu-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Sonu",
+    "price_raw": "24 143 ₸",
+    "scraped_at": "2025-12-04T12:34:20.680222"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bc84/clothes-demix-shorty-sportivnye/",
+    "name": "Шорты спортивные",
+    "brand": "Demix",
+    "price_raw": "4 697 ₸",
+    "scraped_at": "2025-12-04T12:34:20.711466"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej663402/clothes-sonu-futbolka-sportivnaya/",
+    "name": "Футболка спортивная",
+    "brand": "Sonu",
+    "price_raw": "10 920 ₸",
+    "scraped_at": "2025-12-04T12:34:20.727105"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladl068804/clothes-nike-bryuki-sportivnye/",
+    "name": "Брюки спортивные Challenger Men's Dri-FIT Woven",
+    "brand": "Nike",
+    "price_raw": "63 600 ₸",
+    "scraped_at": "2025-12-04T12:34:20.772882"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm14ycx/clothes-demix-futbolka-sportivnaya/",
+    "name": "Футболка спортивная",
+    "brand": "Demix",
+    "price_raw": "4 543 ₸",
+    "scraped_at": "2025-12-04T12:34:20.800963"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm1gwo3/clothes-kelme-vetrovka/",
+    "name": "Ветровка Rain Jacket",
+    "brand": "Kelme",
+    "price_raw": "25 386 ₸",
+    "scraped_at": "2025-12-04T12:34:20.821629"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0d79h/clothes-demix-bridzhi/",
+    "name": "Бриджи",
+    "brand": "Demix",
+    "price_raw": "5 370 ₸",
+    "scraped_at": "2025-12-04T12:34:20.856621"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bzw3/clothes-baon-zhilet-uteplennyy/",
+    "name": "Жилет утепленный",
+    "brand": "Baon",
+    "price_raw": "21 886 ₸",
+    "scraped_at": "2025-12-04T12:34:20.883772"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet330601/clothes-nike-bryuki-sportivnye/",
+    "name": "Брюки спортивные M NK DF STRIDE WVN PANT",
+    "brand": "Nike",
+    "price_raw": "71 700 ₸",
+    "scraped_at": "2025-12-04T12:34:20.915036"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej044001/shoes-adidas-krossovki/",
+    "name": "Кроссовки GALAXY 7 M",
+    "brand": "adidas",
+    "price_raw": "29 240 ₸",
+    "scraped_at": "2025-12-04T12:34:20.930650"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeg560402/shoes-puma-krossovki/",
+    "name": "Кроссовки Scend Pro 2",
+    "brand": "PUMA",
+    "price_raw": "38 690 ₸",
+    "scraped_at": "2025-12-04T12:34:20.973976"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0baan/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "6 265 ₸",
+    "scraped_at": "2025-12-04T12:34:20.992666"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlael037901/shoes-reebok-krossovki/",
+    "name": "Кроссовки ENERGEN TECH 2",
+    "brand": "Reebok",
+    "price_raw": "36 690 ₸",
+    "scraped_at": "2025-12-04T12:34:24.742611"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeq662901/clothes-xbionic-taytsy/",
+    "name": "Тайтсы X-BIONIC® XCEED RUN LONG TIGHTS",
+    "brand": "X-Bionic",
+    "price_raw": "66 590 ₸",
+    "scraped_at": "2025-12-04T12:34:24.773876"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej661801/clothes-sonu-shorty-sportivnye/",
+    "name": "Шорты спортивные",
+    "brand": "Sonu",
+    "price_raw": "21 555 ₸",
+    "scraped_at": "2025-12-04T12:34:24.802577"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladf406902/clothes-reebok-futbolka-sportivnaya/",
+    "name": "Футболка спортивная RUNNING SS SPEEDWICK TEE",
+    "brand": "Reebok",
+    "price_raw": "17 590 ₸",
+    "scraped_at": "2025-12-04T12:34:24.830717"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaem500001/shoes-reebok-krossovki/",
+    "name": "Кроссовки CITYRIDE",
+    "brand": "Reebok",
+    "price_raw": "40 692 ₸",
+    "scraped_at": "2025-12-04T12:34:24.867969"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0dppg/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "14 497 ₸",
+    "scraped_at": "2025-12-04T12:34:24.883608"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej665802/clothes-sonu-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Sonu",
+    "price_raw": "28 974 ₸",
+    "scraped_at": "2025-12-04T12:34:24.914856"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer627201/shoes-adidas-krossovki/",
+    "name": "Кроссовки DURAMO SPEED 2 M",
+    "brand": "adidas",
+    "price_raw": "51 000 ₸",
+    "scraped_at": "2025-12-04T12:34:24.955140"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeo478101/shoes-hokaoneone-krossovki/",
+    "name": "Кроссовки Speedgoat 6",
+    "brand": "Hoka One One",
+    "price_raw": "92 290 ₸",
+    "scraped_at": "2025-12-04T12:34:24.977801"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0drt6/shoes-demix-krossovki/",
+    "name": "Кроссовки SP TURBO",
+    "brand": "Demix",
+    "price_raw": "11 754 ₸",
+    "scraped_at": "2025-12-04T12:34:25.013143"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer496501/clothes-nike-longsliv-sportivnyy/",
+    "name": "Лонгслив спортивный M NK DF PACER TOP HZ",
+    "brand": "Nike",
+    "price_raw": "41 800 ₸",
+    "scraped_at": "2025-12-04T12:34:25.039513"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaef287501/shoes-nike-krossovki/",
+    "name": "Кроссовки AIR ZPEGASUS 41 GTX",
+    "brand": "Nike",
+    "price_raw": "101 800 ₸",
+    "scraped_at": "2025-12-04T12:34:25.073288"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bwug/clothes-fn-kostyum-sportivnyy/",
+    "name": "Костюм спортивный Dynamic",
+    "brand": "FN",
+    "price_raw": "22 716 ₸",
+    "scraped_at": "2025-12-04T12:34:25.102345"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bmn4/clothes-baon-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Baon",
+    "price_raw": "18 759 ₸",
+    "scraped_at": "2025-12-04T12:34:25.130406"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaep323801/shoes-nike-krossovki/",
+    "name": "Кроссовки NIKE JUNIPER TRAIL 3",
+    "brand": "Nike",
+    "price_raw": "70 990 ₸",
+    "scraped_at": "2025-12-04T12:34:25.156862"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej735602/shoes-hokaoneone-krossovki/",
+    "name": "Кроссовки Clifton 10",
+    "brand": "Hoka One One",
+    "price_raw": "90 000 ₸",
+    "scraped_at": "2025-12-04T12:34:25.181001"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm01l6j/shoes-adidas-krossovki/",
+    "name": "Кроссовки Galaxy 6",
+    "brand": "adidas",
+    "price_raw": "38 990 ₸",
+    "scraped_at": "2025-12-04T12:34:25.212252"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladv738701/clothes-underarmour-kurtka-uteplennaya/",
+    "name": "Куртка утепленная STORM INSULATE RUN HBD JKT",
+    "brand": "Under Armour",
+    "price_raw": "70 790 ₸",
+    "scraped_at": "2025-12-04T12:34:25.244569"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bzw6/clothes-baon-kurtka-uteplennaya/",
+    "name": "Куртка утепленная",
+    "brand": "Baon",
+    "price_raw": "25 012 ₸",
+    "scraped_at": "2025-12-04T12:34:25.277502"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bv7s/clothes-demix-kurtka-uteplennaya/",
+    "name": "Куртка утепленная",
+    "brand": "Demix",
+    "price_raw": "20 154 ₸",
+    "scraped_at": "2025-12-04T12:34:25.306166"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet093601/clothes-nike-futbolka-sportivnaya/",
+    "name": "Футболка спортивная M NK DF UV MILER SS",
+    "brand": "Nike",
+    "price_raw": "27 030 ₸",
+    "scraped_at": "2025-12-04T12:34:25.334855"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm00iab/clothes-baon-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Baon",
+    "price_raw": "21 600 ₸",
+    "scraped_at": "2025-12-04T12:34:25.362933"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladg405302/clothes-reebok-mayka-sportivnaya/",
+    "name": "Майка спортивная RUN SPEEDWICK SINGLET",
+    "brand": "Reebok",
+    "price_raw": "19 790 ₸",
+    "scraped_at": "2025-12-04T12:34:25.390079"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet093501/clothes-nike-futbolka-sportivnaya/",
+    "name": "Футболка спортивная M NK DF UV MILER SS",
+    "brand": "Nike",
+    "price_raw": "27 030 ₸",
+    "scraped_at": "2025-12-04T12:34:25.414743"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaek265101/clothes-reebok-mayka-sportivnaya/",
+    "name": "Майка спортивная RUN SPEEDWICK SINGLET",
+    "brand": "Reebok",
+    "price_raw": "19 790 ₸",
+    "scraped_at": "2025-12-04T12:34:25.446008"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlade688101/shoes-peak-krossovki/",
+    "name": "Кроссовки CUSHION RUNNING SHOES",
+    "brand": "Peak",
+    "price_raw": "25 100 ₸",
+    "scraped_at": "2025-12-04T12:34:25.461621"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaep058301/shoes-puma-krossovki/",
+    "name": "Кроссовки Darter Pro",
+    "brand": "PUMA",
+    "price_raw": "42 990 ₸",
+    "scraped_at": "2025-12-04T12:34:25.492881"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet333201/shoes-nike-krossovki/",
+    "name": "Кроссовки Downshifter 13",
+    "brand": "Nike",
+    "price_raw": "54 060 ₸",
+    "scraped_at": "2025-12-04T12:34:25.524138"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0b8rt/clothes-demix-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Demix",
+    "price_raw": "7 441 ₸",
+    "scraped_at": "2025-12-04T12:34:25.557459"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bzw2/clothes-baon-kurtka-uteplennaya/",
+    "name": "Куртка утепленная",
+    "brand": "Baon",
+    "price_raw": "38 480 ₸",
+    "scraped_at": "2025-12-04T12:34:25.585462"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladc593802/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA CHARGED ASSERT 10",
+    "brand": "Under Armour",
+    "price_raw": "47 090 ₸",
+    "scraped_at": "2025-12-04T12:34:25.612234"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet859201/clothes-underarmour-vetrovka/",
+    "name": "Ветровка Launch Hooded Jacket",
+    "brand": "Under Armour",
+    "price_raw": "38 900 ₸",
+    "scraped_at": "2025-12-04T12:34:25.633904"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaem039001/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA Charged Pursuit 4",
+    "brand": "Under Armour",
+    "price_raw": "37 290 ₸",
+    "scraped_at": "2025-12-04T12:34:25.665153"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer560601/shoes-puma-krossovki/",
+    "name": "Кроссовки Voyage NITRO 4",
+    "brand": "PUMA",
+    "price_raw": "81 900 ₸",
+    "scraped_at": "2025-12-04T12:34:25.695894"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bwux/clothes-fn-termobele-niz/",
+    "name": "Термобелье низ WARM",
+    "brand": "FN",
+    "price_raw": "11 138 ₸",
+    "scraped_at": "2025-12-04T12:34:25.727646"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaem039101/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA Charged Rogue 5",
+    "brand": "Under Armour",
+    "price_raw": "42 890 ₸",
+    "scraped_at": "2025-12-04T12:34:25.743281"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bv7t/clothes-demix-kurtka-uteplennaya/",
+    "name": "Куртка утепленная",
+    "brand": "Demix",
+    "price_raw": "29 393 ₸",
+    "scraped_at": "2025-12-04T12:34:25.774523"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaea049101/clothes-diadora-termobele-niz/",
+    "name": "Термобелье низ PANTS ACT",
+    "brand": "Diadora",
+    "price_raw": "42 290 ₸",
+    "scraped_at": "2025-12-04T12:34:25.813334"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet684202/shoes-saucony-krossovki/",
+    "name": "Кроссовки AURA TR",
+    "brand": "Saucony",
+    "price_raw": "66 800 ₸",
+    "scraped_at": "2025-12-04T12:34:25.836380"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaee911801/clothes-puma-bryuki-sportivnye/",
+    "name": "Брюки спортивные M RUN CLOUDSPUN TAPERED PANT",
+    "brand": "PUMA",
+    "price_raw": "32 191 ₸",
+    "scraped_at": "2025-12-04T12:34:25.867642"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaer262601/shoes-nike-krossovki/",
+    "name": "Кроссовки Nike Downshifter 13",
+    "brand": "Nike",
+    "price_raw": "42 458 ₸",
+    "scraped_at": "2025-12-04T12:34:25.898895"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaef978601/shoes-mizuno-krossovki/",
+    "name": "Кроссовки WAVE IBUKI 4",
+    "brand": "Mizuno",
+    "price_raw": "52 629 ₸",
+    "scraped_at": "2025-12-04T12:34:25.929599"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bwv2/clothes-fn-termobele-verkh/",
+    "name": "Термобелье верх WARM",
+    "brand": "FN",
+    "price_raw": "6 684 ₸",
+    "scraped_at": "2025-12-04T12:34:25.945705"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm14ycy/clothes-demix-futbolka-sportivnaya/",
+    "name": "Футболка спортивная",
+    "brand": "Demix",
+    "price_raw": "6 490 ₸",
+    "scraped_at": "2025-12-04T12:34:26.008216"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaet863201/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA Summit Trek Suede",
+    "brand": "Under Armour",
+    "price_raw": "51 700 ₸",
+    "scraped_at": "2025-12-04T12:34:26.057160"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaej668201/shoes-sonu-krossovki/",
+    "name": "Кроссовки SUV TRAIL RUNNING M SNEAKERS",
+    "brand": "Sonu",
+    "price_raw": "31 672 ₸",
+    "scraped_at": "2025-12-04T12:34:26.084165"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm25cfm/clothes-redfox-taytsy/",
+    "name": "Тайтсы Multi Light III",
+    "brand": "Red Fox",
+    "price_raw": "37 723 ₸",
+    "scraped_at": "2025-12-04T12:34:26.102283"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaen587901/clothes-reebok-vetrovka/",
+    "name": "Ветровка MILES RUNNING JACKET",
+    "brand": "Reebok",
+    "price_raw": "67 290 ₸",
+    "scraped_at": "2025-12-04T12:34:26.134035"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaen018801/shoes-reebok-krossovki/",
+    "name": "Кроссовки FUEL FLEX RUN",
+    "brand": "Reebok",
+    "price_raw": "57 990 ₸",
+    "scraped_at": "2025-12-04T12:34:26.164779"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0cus4/shoes-adidas-krossovki/",
+    "name": "Кроссовки Ultraboost 5",
+    "brand": "adidas",
+    "price_raw": "61 990 ₸",
+    "scraped_at": "2025-12-04T12:34:26.196041"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaen963401/shoes-thenorthface-krossovki/",
+    "name": "Кроссовки M VECTIV ENDURIS 4",
+    "brand": "The North Face",
+    "price_raw": "98 400 ₸",
+    "scraped_at": "2025-12-04T12:34:26.221929"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0csbh/clothes-adidas-zhilet-sportivnyy/",
+    "name": "Жилет спортивный Own the Run",
+    "brand": "adidas",
+    "price_raw": "27 990 ₸",
+    "scraped_at": "2025-12-04T12:34:26.253184"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm00k8n/clothes-adidas-futbolka-sportivnaya/",
+    "name": "Футболка спортивная Run It",
+    "brand": "adidas",
+    "price_raw": "22 990 ₸",
+    "scraped_at": "2025-12-04T12:34:26.284445"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeq384801/shoes-mizuno-krossovki/",
+    "name": "Кроссовки WAVE RIDER 29",
+    "brand": "Mizuno",
+    "price_raw": "82 190 ₸",
+    "scraped_at": "2025-12-04T12:34:26.300063"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0bl8d/shoes-adidas-krossovki/",
+    "name": "Кроссовки Galaxy 7",
+    "brand": "adidas",
+    "price_raw": "39 990 ₸",
+    "scraped_at": "2025-12-04T12:34:26.347466"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xu0d87l/clothes-demix-noski-pary/",
+    "name": "Носки 2 пары",
+    "brand": "Demix",
+    "price_raw": "1 288 ₸",
+    "scraped_at": "2025-12-04T12:34:26.375249"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/mp002xm0scgp/clothes-demix-taytsy/",
+    "name": "Тайтсы",
+    "brand": "Demix",
+    "price_raw": "4 190 ₸",
+    "scraped_at": "2025-12-04T12:34:26.398918"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtlaeu954301/clothes-uglow-bryuki-sportivnye/",
+    "name": "Брюки спортивные",
+    "brand": "Uglow",
+    "price_raw": "145 600 ₸",
+    "scraped_at": "2025-12-04T12:34:26.430171"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladk364901/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA CHARGED SURGE 4",
+    "brand": "Under Armour",
+    "price_raw": "45 390 ₸",
+    "scraped_at": "2025-12-04T12:34:26.461493"
+  },
+  {
+    "product_url": "https://www.lamoda.kz/p/rtladk362901/shoes-underarmour-krossovki/",
+    "name": "Кроссовки UA CHARGED ASSERT 10",
+    "brand": "Under Armour",
+    "price_raw": "46 290 ₸",
+    "scraped_at": "2025-12-04T12:34:26.489595"
+  }
+]
